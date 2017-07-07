@@ -1,0 +1,19 @@
+.md-headline {
+  text-align: left;
+}
+
+img {
+  margin-right: 10px;
+  margin-bottom: 5px;
+  height: 20px;
+  width: 20px;
+}
+
+.md-toolbar.md-large {
+  min-height: 256px;
+}
+
+.md-input-container {
+  width: 60%;
+  margin:auto;
+}

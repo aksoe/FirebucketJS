@@ -1,0 +1,7 @@
+.md-theme-default.md-button:not([disabled]).md-fab {
+  background-color: #FDD835;
+}
+
+.md-fab-add-white {
+  color: white;
+}

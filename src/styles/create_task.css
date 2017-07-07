@@ -1,0 +1,39 @@
+#fab-create {
+  margin-top: 200px;
+}
+
+#spinner-create {
+  margin-top: 24px;
+}
+
+.md-whiteframe {
+  margin: 32px;
+}
+
+.md-list {
+  background-color: white;
+}
+
+.md-list-item {
+  padding: 16px;
+}
+
+.priority-picker-list {
+  padding: 24px;
+}
+
+.priority-picker-item {
+  padding: 0px;
+}
+
+.tag-picker-list {
+  padding: 24px;
+}
+
+.tag-picker-item {
+  padding: 0px;
+}
+
+#whiteframe {
+  background-color: white;
+}

@@ -1,0 +1,59 @@
+#placeholder-empty-bucket {
+  padding-top: 24px;
+}
+
+.md-whiteframe {
+  background-color: white;
+  margin-right: 24px;
+  margin-left: 24px;
+  margin-top: 0px;
+}
+
+.item-task-tag {
+  border-radius: 6%;
+  background-color: #EEEEEE;
+  padding: 6px;
+}
+
+.item-task-priority-badge {
+  display:inline-block;
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+}
+
+.item-task-priority-badge-low {
+  display:inline-block;
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+  background-color: #A5D6A7;
+}
+
+.item-task-priority-badge-normal {
+  display:inline-block;
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+  background-color: #FFF59D;
+}
+
+.item-task-priority-badge-high {
+  display:inline-block;
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+  background-color: #FFCC80;
+}
+
+.item-task-priority-badge-crucial {
+  display:inline-block;
+	border-radius: 50%;
+	width: 10px;
+	height: 10px;
+  background-color: #D32F2F;
+}
+
+.item-task-priority-text {
+  margin-left: 6px;
+}
